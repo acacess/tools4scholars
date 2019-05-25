@@ -1,6 +1,8 @@
-# Digital Tools (An Updated Version in 2019)
+# Digital Tools for scholars (An Updated Version in 2019)
 
 The original post was published by Thomas Crouzier on [http://connectedresearchers.com/online-tools-for-researchers](http://connectedresearchers.com/online-tools-for-researchers/). However, after several years, some of the service have become invalid, such as Citeulike; and some completely switched their product focus, for example, Colwiz became Wizdom.ai. Therefore, at Acacess, we spent some time cleaning and regrouping these services, hope you can easily find the one you are looking for. Also, we Acacess is on a mission to boost scholars' productivity and we will release our tool very soon, so please stay tuned.
+
+The complete mindmap of this collection can be found [here](https://my.mindnode.com/7K95e2JhBgz77w92Ux3A473LctyaYTpfzZ8MkRy2)
 
 ## Explore the literature
 
